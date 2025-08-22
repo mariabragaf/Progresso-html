@@ -36,7 +36,7 @@ h2 {
 .flex-item {
     width: 80px;
     height: 80px;
-    background-color: rgb(232, 191, 255);
+    background-color: rgb(230, 187, 255);
     border: 2px solid rgb(131, 71, 131);
     color:rgb(131, 71, 131);
     display: flex;
@@ -48,4 +48,8 @@ h2 {
 
 .justify-center {
     justify-content: center;
+}
+
+.flex-end {
+    justify-content: flex-end;
 }
