@@ -36,12 +36,16 @@ h2 {
 .flex-item {
     width: 80px;
     height: 80px;
-    background-color: rgb(226, 226, 226);
+    background-color: rgb(232, 191, 255);
     border: 2px solid rgb(131, 71, 131);
     color:rgb(131, 71, 131);
     display: flex;
     justify-content: center;
     align-items: center;
-    border-radius: 8px;
+    border-radius: 25px;
     margin: 10px;
+}
+
+.justify-center {
+    justify-content: center;
 }
