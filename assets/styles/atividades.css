@@ -7,6 +7,32 @@
 .retangulo {
     width: 400px;
     height: 200px;
-    background-color: pink;
+    background-color: rgb(255, 164, 234);
     margin: 50px auto;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    gap: 20px;
+}
+
+.quadrado {
+    width: 150px;
+    height: 150px;
+}
+
+.verde {
+    background-color: rgb(180, 233, 131);
+}
+
+.lilas {
+    background-color: rgb(191, 151, 228);
 }
