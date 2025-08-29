@@ -29,10 +29,37 @@
     height: 150px;
 }
 
-.verde {
-    background-color: rgb(180, 233, 131);
+.laranja {
+    background-color: rgb(240, 157, 63);
 }
 
 .lilas {
     background-color: rgb(191, 151, 228);
+}
+
+.semaforo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 600px;
+    gap: 30px;
+}
+
+.sinal {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.verde {
+    background-color: rgb(10, 211, 10);
+}
+
+.amarelo {
+    background-color: yellow;
+}
+
+.vermelho {
+    background-color: red;
 }
