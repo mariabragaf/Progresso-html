@@ -5,7 +5,7 @@
 }
 
 header {
-    background-color: #b361a8;
+    background-color: #c0438a;
     color: white;
     padding: 15px 30px;
     display: flex;
@@ -31,5 +31,5 @@ header {
 }
 
 .menu a:hover {
-    color: #a33995;
+    color: #802e5c;
 }
