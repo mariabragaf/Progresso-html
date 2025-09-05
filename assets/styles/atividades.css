@@ -44,10 +44,10 @@
     flex-direction: column;
     height: 500px;
     gap: 30px;
-    background-color: rgb(66, 66, 66);
+    background-color: rgb(77, 77, 77);
     width: 220px;
-    border-radius: 30px;
-    margin: 0 auto 30px
+    border-radius: 60px;
+    margin: 0 auto 30px;
 }
 
 .sinal {
@@ -58,14 +58,15 @@
 
 .verde {
     background-color: rgb(43, 189, 43);
+    box-shadow: 0 0 20px #5dff12
 }
 
 .amarelo {
     background-color: rgb(235, 235, 29);
+    box-shadow: 0 0 20px #efff12
 }
 
 .vermelho {
     background-color: rgb(231, 60, 60);
+    box-shadow: 0 0 20px #ff1230
 }
-
-
