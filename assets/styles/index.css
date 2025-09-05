@@ -61,3 +61,22 @@ h2 {
 .space-around {
     justify-content: space-around;
 }
+
+.navegacao {
+    text-decoration: none;
+    text-decoration: none;
+    color: rgb(131, 71, 131);
+    text-decoration: none;
+    font-weight: bold;
+    padding: 0.5rem 1rem;
+    margin: 20px;
+    border: 2px solid rgb(131, 71, 131);
+    border-radius: 25px;
+    display: inline-block;
+    transition: all 0.5s ease;
+}
+
+.navegacao:hover {
+    background-color: rgb(109, 62, 109);
+    color: rgb(255, 255, 255);
+}
