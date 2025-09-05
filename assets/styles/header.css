@@ -5,7 +5,7 @@
 }
 
 header {
-    background-color: #c0438a;
+    background-color: #99459c;
     color: white;
     padding: 15px 30px;
     display: flex;
@@ -13,9 +13,9 @@ header {
     align-items: center;
 }
 
-.logo {
-    font-size: 26px;
-    fonr-weight: bold;
+.imagem {
+    height: 200px;
+    width: 200px;
 }
 
 .menu {
@@ -31,5 +31,5 @@ header {
 }
 
 .menu a:hover {
-    color: #802e5c;
+    color: #6c326e;
 }
