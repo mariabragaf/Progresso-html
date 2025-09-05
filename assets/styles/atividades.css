@@ -42,8 +42,12 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    height: 600px;
+    height: 500px;
     gap: 30px;
+    background-color: rgb(66, 66, 66);
+    width: 220px;
+    border-radius: 30px;
+    margin: 0 auto 30px
 }
 
 .sinal {
@@ -63,3 +67,5 @@
 .vermelho {
     background-color: rgb(231, 60, 60);
 }
+
+
